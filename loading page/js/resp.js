@@ -17,7 +17,7 @@ function stop() {
     vis.style.display = "block";
 }
 window.addEventListener("load", function() {
-    showPopup();
+    // showPopup();
 
 })
 
