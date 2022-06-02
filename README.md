@@ -15,7 +15,7 @@ It was the Africa's first hands-free speaker which gained popularity quickly.
 
 ## Reasons for building this website
 
-- It was build under the basic track of Hack the Web, Hackathon was organised by The Programming Club(TPC), at IIITDM Jabalpur
+- It was build by me under the basic track of Hack the Web, Hackathon was organised by The Programming Club(TPC), at IIITDM Jabalpur
 - Others can use this frontend template for any other landing page.
 
 ## Prizes won
