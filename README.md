@@ -2,7 +2,7 @@
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/varisha-025/kaya_product/pulls)
 
-[Demo Link](https://varisha-025.github.io/kaya_product/)
+[Demo Link](https://kayalandingpage.netlify.app/)
 
 ![kaya logo](https://user-images.githubusercontent.com/81171573/156912596-0842513d-6232-4c6a-be47-597945d72578.png)
 
