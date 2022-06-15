@@ -12,12 +12,11 @@ var vis = document.querySelector(".hide");
 window.onload = stop();
 
 function stop() {
-    console.log("hello")
     loader.style.display = "none";
     vis.style.display = "block";
 }
 window.addEventListener("load", function() {
-    // showPopup();
+    showPopup();
 
 })
 
