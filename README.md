@@ -22,8 +22,8 @@ It was the Africa's first hands-free speaker which gained popularity quickly.
 - Javascript
 - HTML
 - CSS3
-- BOOTSTRAP
-- Github Pages
+- Bootstrap
+- Netlify
 
 ## Contribution Guidelines
 
